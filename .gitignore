@@ -1,0 +1,12 @@
+# Rust
+/target/
+
+# NextJS
+/.next/
+/out/
+
+# Postgres
+*.sql
+*.dump
+*.bak
+*.log
